@@ -1,7 +1,7 @@
 # twitter_sentiment
-### Finding sentiment trends in tweets about a specific topic: A webscraping/NLP data science project
+### Finding sentiment trends in tweets about a specific topic: A webscraping/NLP data science project (Python)
 
-In this little practice project, I show how tweets about 'synthetic diamonds' have changed in sentiment over a course of 30 days in the summer of 2021, and make some inference about which real-life events might have caused those changes. I also show how using different search terms, which objectively all describe 'synthetic diamonds', affected the resulting sentiment.
+In this little practice project, I show how tweets about 'synthetic diamonds' have changed in sentiment over a course of 30 days in the summer of 2021. I also show how using different search terms, which objectively all describe 'synthetic diamonds', affected the resulting sentiment.
 
 Summary of steps taken:
 * set up Twitter developer account to access the twitter API
