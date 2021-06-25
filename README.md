@@ -3,6 +3,8 @@
 
 In this little practice project, I show how tweets about 'synthetic diamonds' have changed in sentiment over a course of 30 days in the summer of 2021. I also show how using different search terms, which objectively all describe 'synthetic diamonds', affected the resulting sentiment.
 
+Please see <a href="https://github.com/BirkoRuzicka/twitter_sentiment/blob/main/Twitter_sentiment_notebook.ipynb">this Jupyter Notebook</a> for a full walkthrough of the code!
+
 Summary of steps taken:
 * set up Twitter developer account to access the twitter API
 * downloaded relevant tweets (using the tweepy package)
